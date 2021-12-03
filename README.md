@@ -1,44 +1,33 @@
 # Valienta
- Prueba Tecnica para el cargo de Desarrollador React.
 
- SPA que permite renderizar la info tomada de la API de Rick & Morty, realizar filtrados por episodos, ubicaciones y estados de cada personaje.
+Prueba Tecnica para el cargo de Desarrollador React.
+
+SPA que permite renderizar la info tomada de la API de Rick & Morty, realizar filtrados por episodos, ubicaciones y estados de cada personaje.
 
 <hr/>
 
 # FILTRADO DE PERSONAJES
 
-<li>Se incluyen filtros de acuerdo a su estado y genero</li>
+<li>Filtro por Status</li>
 
 <p><img src='https://github.com/davidmenlop/valientaprueba/blob/master/Readme/filtrado-status.png' alt="foo" title="title"/></p>
 <hr/>
 
-<li>Animaciones en Cards y Botones</li>
+<li>Filtro por Genero</li>
 
-<p><img src='https://github.com/davidmenlop/onthefuze/blob/master/Readme/otf%20card.png?raw=true' alt="foo" title="title"/></p>
+<p><img src='https://github.com/davidmenlop/valientaprueba/blob/master/Readme/filtrado-genero.png' alt="foo" title="title"/></p>
 <hr/>
 
-<li>Pop up Responsive en CSS</li>
+# FILTRADO POR EPISODIOS CONSUMIENDO UN NUEVO ENDPOINT
 
-<p><img src='https://github.com/davidmenlop/onthefuze/blob/master/Readme/otf%20popup.png?raw=true' alt="foo" title="title"/></p>
+ <p><img src='https://github.com/davidmenlop/valientaprueba/blob/master/Readme/filtrado-episodio.png' alt="foo" title="title"/></p>
 <hr/>
 
-# Capturas del trabajo desarrollado
+# FILTRADO POR UBICACION CONSUMIENDO UN NUEVO ENDPOINT
 
- ### Version Desktop
+ <p><img src='https://github.com/davidmenlop/valientaprueba/blob/master/Readme/filtrado-ubicaciones.png' alt="foo" title="title"/></p>
 
- <p><img src='https://github.com/davidmenlop/onthefuze/blob/master/Readme/otf.png?raw=true' alt="foo" title="title"/></p>
 <hr/>
-
- ### Version Tablet (768px)
-
- <p><img src='https://github.com/davidmenlop/onthefuze/blob/master/Readme/otf%20768px.png?raw=true' alt="foo" title="title"/></p>
-<hr/>
-
- ### Version Mobile (414px)
-
-<p><img src='https://github.com/davidmenlop/onthefuze/blob/master/Readme/otf%20414px.png?raw=true' alt="foo" title="title"/></p>
-
-
 
 # Getting Started with Create React App
 
